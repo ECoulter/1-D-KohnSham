@@ -1,0 +1,7 @@
+# FORTRAN Extra Compiled files#
+##############################
+*.out
+*.mod
+
+#Just for Me
+*test*
